@@ -35,4 +35,6 @@ body{
       font-size: x-large;
   
   }
-  
+  input[type=button]:hover{
+    background-color:  rgb(107, 107, 107);
+  }
